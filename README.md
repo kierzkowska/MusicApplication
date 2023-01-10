@@ -14,7 +14,7 @@ o tym powiadomieniem w konsoli.
 Następnym, równie ważnym elementem w pliku konfiguracyjnym było połączenie się 
 serwera z bazą danych. Dodatkowo, należało również pobrać pakiet dotenv, który pozwolił nam załadować nasze zmienne środowiskowe 
 przechowywane w pliku .env do proces.env. Dzięki temu zabiegowi uzyskaliśmy dostęp do 
-określonych zmiennych w naszym kodzie (w opisanym niżej kodzie jest to zmienna 
+określonych zmiennych w naszym kodzie (w kodzie jest to zmienna 
 mongoURI), co nałożyło się na pomyślne uruchomienie aplikacji zgodnie z wymaganiami 
 środowiska. 
 Natomiast aby użyć przekierowań, należało skorzystać z oprogramowania pośredniczącego.
